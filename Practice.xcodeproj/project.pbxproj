@@ -14,6 +14,7 @@
 		408479FF2B7CE2AD0087BF47 /* PracticeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 408479FE2B7CE2AD0087BF47 /* PracticeTests.swift */; };
 		40847A092B7CE2AD0087BF47 /* PracticeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40847A082B7CE2AD0087BF47 /* PracticeUITests.swift */; };
 		40847A0B2B7CE2AD0087BF47 /* PracticeUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40847A0A2B7CE2AD0087BF47 /* PracticeUITestsLaunchTests.swift */; };
+		40847A182B7CEF270087BF47 /* NameDisplayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40847A172B7CEF270087BF47 /* NameDisplayView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		40847A042B7CE2AD0087BF47 /* PracticeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PracticeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		40847A082B7CE2AD0087BF47 /* PracticeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PracticeUITests.swift; sourceTree = "<group>"; };
 		40847A0A2B7CE2AD0087BF47 /* PracticeUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PracticeUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		40847A172B7CEF270087BF47 /* NameDisplayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NameDisplayView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				408479EF2B7CE2AB0087BF47 /* ContentView.swift */,
 				408479F12B7CE2AD0087BF47 /* Assets.xcassets */,
 				408479F32B7CE2AD0087BF47 /* Preview Content */,
+				40847A172B7CEF270087BF47 /* NameDisplayView.swift */,
 			);
 			path = Practice;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			files = (
 				408479F02B7CE2AB0087BF47 /* ContentView.swift in Sources */,
 				408479EE2B7CE2AB0087BF47 /* PracticeApp.swift in Sources */,
+				40847A182B7CEF270087BF47 /* NameDisplayView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
